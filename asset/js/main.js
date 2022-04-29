@@ -5,6 +5,7 @@ const SERVER_HOST =
 
 const NAME = "정지원";
 
+// /member라는 경로에서 데이터를 찾아와줘~
 async function getProfileData(name) {
     const path = "/member";
 
